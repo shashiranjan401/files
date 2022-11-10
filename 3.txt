@@ -1,4 +1,10 @@
 GITHUB
 
 to upload files on github:-
- 
+ steps:-
+   1)go to (Your Repository)
+   2)Click (New)
+   3)Give new Repository name
+   4)Tick on Add a Readme file
+   5)then click on create 
+   6)

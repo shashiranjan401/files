@@ -1,0 +1,22 @@
+GIT
+
+1)ls -a
+2)cd .git
+3)ls
+4)cd ..
+
+
+steps:-
+
+1)git status
+2)git init
+3)git status
+4)git add. (to add all files once)
+           or
+  git add filename.extension(to add particular file at a time)
+5)git status
+6)git commit -m "message"
+7)git status
+8)git log
+
+

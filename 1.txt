@@ -1,0 +1,17 @@
+git --version(see the vesion of git)
+git config --list
+
+To create username,name and email:-
+ git config --global user.uname "username"
+ git config --global user.name "name"
+ git config --global user.email "email"
+
+
+To delete or unset username,name and email:-
+ git config --global unset user.uname 
+ git config --global unset user.name 
+ git config --global unset user.email
+
+ To make VScode as default editor:-
+  git config --global core.editor "code --wait"
+  
